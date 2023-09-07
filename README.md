@@ -19,3 +19,6 @@ Their task is to keep the tests as unbiased as possible through a review process
 ### working team
 Known and unknown people from the WordPress/WooCommerce/Hosting industry. Technical people that really understand the problems with making a performant hosting/WooCommerce situation.
  
+### contact
+
+Mail me at andrew.killen@servebolt.com or find me in [WordPress Hosting](https://www.facebook.com/groups/wphosting)
